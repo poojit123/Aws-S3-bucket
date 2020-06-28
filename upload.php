@@ -21,8 +21,8 @@
 	use Aws\S3\Exception\S3Exception;
 	// AWS Info
 	$bucketName = 'ENTER-BUCKET-NAME';
-	$IAM_KEY = 'AKIAJZZMASTOLU7J2LDQ';
-	$IAM_SECRET = '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';
+	$IAM_KEY = 'IAM_KEY';
+	$IAM_SECRET = 'IAM_SECRET';
 	// Connect to AWS
 	try {
 		// You may need to change the region. It will say in the URL when the bucket is open
